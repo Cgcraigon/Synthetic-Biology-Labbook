@@ -11,6 +11,7 @@
 ####Plasmid Miniprep 
 ####PCR
 > Mix these reactants in  this order in a 0.2ml eppendorf tube:
+
 1. 35.3 uL of Water.
 2. 10 uL of PCR Buffer.
 3. 2.5 uL of Enhancer.
