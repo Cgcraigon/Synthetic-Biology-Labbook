@@ -1,4 +1,4 @@
-#Synthetic Biology Practical 
+#Synthetic Biology Practical 1
 ## 2/3/2015 
 ### Tasks completed during this practical:
 >1. Produce Competant Cells and test by plating. 
