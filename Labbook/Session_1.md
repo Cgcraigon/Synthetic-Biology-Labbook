@@ -7,7 +7,7 @@
 
 ### Methods
 ####Transformation of E.coli.
->1. Thaw 100uL aliqoutof competant cells on ice.
+>1. Thaw 100uL aliqout of competant cells on ice.
 2. Gently ix ligated DNA with 100uL of Chemically competant cells into an eppendof tube.
 3. prep a control tube that only contains cells.
 4. Incubate on ice for 15 mins.
@@ -24,7 +24,7 @@
 2. Harvest the bacterial culture at 6000 rpm in a 15mL conical tube for 5 minutes. Pour off the supernatant  and blot the inverted tube on a paper towel to remove residue medium.
 3. Add 450uL buffer A1 and completel resuspand bacterial pellet by vortexing or pippeting. 
 4. Add 450 uL Buffer B1, mix gently by inverting 10 times(do not vortex) and incubate at room tempreture for 5 mins until the solution comes clear.
-5.
+5.add 550uL
 6.
 7.
 8.
