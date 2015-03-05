@@ -32,6 +32,7 @@
 
 ####PCR
 > Mix these reactants in  this order in a 0.2ml eppendorf tube.
+
 1. 35.3 uL of Water.
 2. 10 uL of PCR Buffer.
 3. 2.5 uL of Enhancer.
@@ -43,7 +44,7 @@
 
 ### Comments.
 > All the results from these expreriments will be seen tomorrow. 
-Chlorephenical resistance was added to the transformation which wasnt added to the control plate.
+> Chlorephenical resistance was added to the transformation which wasnt added to the control plate.
 #### Franks Comments
 > "There is a rule in PCR: 1 Minute will run a 1000 bases. 
 
