@@ -15,7 +15,7 @@
  3. Add 1uL of cyber-Safe - this binds to the DNA in the buffer be extra cautios as it is carcegenic. 
  4. Pour the soloution onto a preped plate (has been taped up) and allow it to settel. 
 
-##### Exeecution 
+##### Execution 
 1. Add log ladder, if the DNA is large 2Log ladder is the best to use.
 2. Usually you would add gel loading buffer - however this is not neccisary for this experiment as these have been preped with gel load buffer. 
 3. Load gels making sure you know where they are.
@@ -36,6 +36,5 @@
 
 
 ### Comments 
-The outcome of the gel was successful for ZRA promoter and ZRAP however was unsuccessful for the ZRAS gene - this was the largest at 2kb and we believe could have made it quite hard for the one Taq to produce viable results during PCR so as a result, this PCR done today was using a Q5 high fidelity DNA polymerase instead. Hopefully this will have worked more effectively, however we shall see. Waiting to upload images.
-The outcome of making competant cells was a success, waiting to upload image.
+The outcome of the gel was successful for ZRA promoter and ZRAP however was unsuccessful for the ZRAS gene - this was the largest at 2kb and we believe could have made it quite hard for the one Taq to produce viable results during PCR so as a result, this PCR done today was using a Q5 high fidelity DNA polymerase instead. Hopefully this will have worked more effectively, however we shall see. Waiting to upload images.The outcome of making competant cells was a success, The cells that had become competant uptook the plasmid containing chlorephenicaol resistance producing many colonies, where as it can be seen that the control did not produce any colonies as can be expected.
 
