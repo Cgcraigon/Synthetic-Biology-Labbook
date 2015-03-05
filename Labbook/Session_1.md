@@ -20,7 +20,16 @@
 11. incubate at 370c overnight. 
 
 ####Plasmid Miniprep 
->1. 
+>1. Inoculate 5ml of LB containing the appropriate antibitic with a fresh colony. Grow at 370c for 14-16 hours with vigours shaking. 
+2. Harvest the bacterial culture at 6000 rpm in a 15mL conical tube for 5 minutes. Pour off the supernatant  and blot the inverted tube on a paper towel to remove residue medium.
+3. Add 450uL buffer A1 and completel resuspand bacterial pellet by vortexing or pippeting. 
+4.Add 450 uL Buffer B1, mix gently by inverting 10 times(do not vortex) and incubate at room tempreture for 5 mins until the solution comes clear.
+5.
+6.
+7.
+8.
+9.
+
 ####PCR
 > Mix these reactants in  this order in a 0.2ml eppendorf tube:
 
