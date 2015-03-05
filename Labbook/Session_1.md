@@ -7,8 +7,20 @@
 
 ### Methods
 ####Transformation of E.coli.
+>1. Thaw 100uL aliqoutof competant cells on ice.
+2. Gently ix ligated DNA with 100uL of Chemically competant cells into an eppendof tube.
+3. prep a control tube that only contains cells.
+4. Incubate on ice for 15 mins.
+5. place in 42 0c water bath for 90 seconds.
+6. immediatly place on ice for at least 2 mins.
+7. add 1ml of LB broth and incubate at a 37 0c water bath for 60 minutes.
+8.Centrifuge the eppendorf tube at top speed for 3 mins in a centriuge.
+9.Discard the supernattant by carefully pipetting it out of the tube and resuspand the cell pellet in 100uL of LB medium. 
+10.Plate the whole suspension onto agar LB plates containing the appropriate antibiotic.
+11. incubate at 370c overnight. 
 
 ####Plasmid Miniprep 
+>1. 
 ####PCR
 > Mix these reactants in  this order in a 0.2ml eppendorf tube:
 
@@ -23,7 +35,7 @@
 
 ### Comments.
 > All the results from these expreriments will be seen tomorrow. 
-
+Chlorephenical resistance was added to the transformation which wasnt added to the control plate.
 #### Franks Comments
 > "There is a rule in PCR: 1 Minute will run a 1000 bases. 
 
