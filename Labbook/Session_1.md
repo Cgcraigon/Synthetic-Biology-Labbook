@@ -45,6 +45,7 @@
 ### Comments.
 > All the results from these expreriments will be seen tomorrow. 
 > Chlorephenical resistance was added to the transformation which wasnt added to the control plate.
+
 #### Franks Comments
 > "There is a rule in PCR: 1 Minute will run a 1000 bases. 
 
