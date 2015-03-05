@@ -2,7 +2,9 @@
 ## 3/3/2015 
 ### Tasks completed during this practical:
 > 1.Observe plates from yesterday. 
+
 > 2.Run gel electrophoresis of the PCR that was done in the last practical.
+
 > 3.Run PCR on genes of intrest using the specific primers for this experiment. LAC1-LAC6.
 
 ### Methods
@@ -10,7 +12,7 @@
 > Gel electrophoresis is done in two parts: Prep and execution.
 
 ##### Preperation
- 1. Prepare Tris-Borate EDTA gel Buffer (TBE) - 10.8g Tris base, 5.5 grams Boric Acid, 4ml of 0.5M EDTA(ph8). Dissolve in 1L of distilled water.
+ >1. Prepare Tris-Borate EDTA gel Buffer (TBE) - 10.8g Tris base, 5.5 grams Boric Acid, 4ml of 0.5M EDTA(ph8). Dissolve in 1L of distilled water.
  2. To prep the gel, melt 1 gram of Agarose in 100ml TBE buffer in a flask.
  3. Add 1uL of cyber-Safe - this binds to the DNA in the buffer be extra cautios as it is carcegenic. 
  4. Pour the soloution onto a preped plate (has been taped up) and allow it to settel. 
