@@ -14,16 +14,16 @@
 5. place in 42 0c water bath for 90 seconds.
 6. immediatly place on ice for at least 2 mins.
 7. add 1ml of LB broth and incubate at a 37 0c water bath for 60 minutes.
-8.Centrifuge the eppendorf tube at top speed for 3 mins in a centriuge.
-9.Discard the supernattant by carefully pipetting it out of the tube and resuspand the cell pellet in 100uL of LB medium. 
-10.Plate the whole suspension onto agar LB plates containing the appropriate antibiotic.
+8. Centrifuge the eppendorf tube at top speed for 3 mins in a centriuge.
+9. Discard the supernattant by carefully pipetting it out of the tube and resuspand the cell pellet in 100uL of LB medium. 
+10. Plate the whole suspension onto agar LB plates containing the appropriate antibiotic.
 11. incubate at 370c overnight. 
 
 ####Plasmid Miniprep 
 >1. Inoculate 5ml of LB containing the appropriate antibitic with a fresh colony. Grow at 370c for 14-16 hours with vigours shaking. 
 2. Harvest the bacterial culture at 6000 rpm in a 15mL conical tube for 5 minutes. Pour off the supernatant  and blot the inverted tube on a paper towel to remove residue medium.
 3. Add 450uL buffer A1 and completel resuspand bacterial pellet by vortexing or pippeting. 
-4.Add 450 uL Buffer B1, mix gently by inverting 10 times(do not vortex) and incubate at room tempreture for 5 mins until the solution comes clear.
+4. Add 450 uL Buffer B1, mix gently by inverting 10 times(do not vortex) and incubate at room tempreture for 5 mins until the solution comes clear.
 5.
 6.
 7.
@@ -32,7 +32,6 @@
 
 ####PCR
 > Mix these reactants in  this order in a 0.2ml eppendorf tube:
-
 1. 35.3 uL of Water.
 2. 10 uL of PCR Buffer.
 3. 2.5 uL of Enhancer.
