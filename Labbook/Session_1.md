@@ -24,8 +24,8 @@
 2. Harvest the bacterial culture at 6000 rpm in a 15mL conical tube for 5 minutes. Pour off the supernatant  and blot the inverted tube on a paper towel to remove residue medium.
 3. Add 450uL buffer A1 and completel resuspand bacterial pellet by vortexing or pippeting. 
 4. Add 450 uL Buffer B1, mix gently by inverting 10 times(do not vortex) and incubate at room tempreture for 5 mins until the solution comes clear.
-5.add 550uL
-6.
+5.add 550uL Buffer N1, Mix gently by inverting 10 times (do not vortex) and incubate at roo tempreture for 5 minutes until the solution becomes clear. Do not incubate for more than 5 minutes. 
+6.Transfer the lysate to a 2mL microtube and centrifuge at 13,000rpm for 10 minutes at room tempreture. 
 7.
 8.
 9.
