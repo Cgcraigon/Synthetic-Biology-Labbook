@@ -3,7 +3,9 @@
 ### Tasks completed during this practical:
 > 1.Run Gel of Yesterdays PCR Practical. Observe Results and decide waht else has to be done.   
 
-> 2. Do a PCR reaction of all three genes again. This time increasing the tempreture every cycle by 0.2oc a cycle precuring 6 0C change in temp over the 30 cycles and use a new PCR polyemerase Q5 high fidelity DNA polymerase - that has just been opened. 
+> 2. Do a PCR reaction of all three genes again. This time increasing the tempreture every cycle by 0.2oc a cycle precuring 6 0C change in temp over the 30 cycles and use a new PCR polyemerase Q5 high fidelity DNA polymerase - that has just been opened.
+
+>3. Run Gel of that PCR.
 
 ### Methods:
 ####PCR
@@ -19,5 +21,5 @@
 8. 0.5 uL of Q5 High Fidelity DNA  Polymerase (or Similar). (New bottle)
 
 ### Comments
-
+Both gels did not work today. The first gel did not function 
 
